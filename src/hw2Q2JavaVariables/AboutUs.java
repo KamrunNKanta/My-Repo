@@ -1,16 +1,16 @@
 package hw2Q2JavaVariables;
 
 public class AboutUs {
-	//varriablr declared
+	// varriable is declared
 	public String MyName;
 	public int myHouseNumber;
-	public char mySex ;
+	public char mySex;
 	public boolean usCitizen;
 	public byte myAge;
-	public short myHouseMortatge ;
-	public long myBankBalance ;
-	public float myHeight ;
-	public double myGrade ;
+	public short myHouseMortatge;
+	public long myBankBalance;
+	public float myHeight;
+	public double myGrade;
 
 	// constructor is declared
 	public AboutUs() {
