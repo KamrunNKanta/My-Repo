@@ -1,7 +1,7 @@
 package hw1Q3JavaBasics;
 
 public class My_address {
-	
+	//variables declared
 	public static String My_name = "Kamrun Kanta";
 	public static int my_Age= 31;
 	public static String StreetName = "Dickens Drive";
