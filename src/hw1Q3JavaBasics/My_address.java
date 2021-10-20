@@ -7,6 +7,7 @@ public class My_address {
 	public static String StreetName = "Dickens Drive";
 	public static char houseLocation = 'W';
 	public static boolean inUSA = true;
+	public static boolean female=true;
 
 	public static void my_address() {
 		System.out.println(My_name + "\n" + my_Age + " " + StreetName + " " + houseLocation + " " + inUSA);
