@@ -5,7 +5,7 @@ public class LearningConstructor {
 	public String MyName="Inaya";
 	
 	//this one is a default constructor
-	public LearningConstructor() {}
+	//public LearningConstructor() {}
 	//paramitarized constructor
 	
 public LearningConstructor(String MyName ) {}
