@@ -8,9 +8,9 @@ public class My_address {
 	public static char houseLocation = 'W';
 	public static boolean inUSA = true;
 	public static boolean female=true;
-
+	public static boolean human=true;
 	public static void my_address() {
-		System.out.println(My_name + "\n" + my_Age + " " + StreetName + " " + houseLocation + " " + inUSA);
+	//	System.out.println(My_name + "\n" + my_Age + " " + StreetName + " " + houseLocation + " " + inUSA);
 
 	}
 
