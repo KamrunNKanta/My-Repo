@@ -1,7 +1,7 @@
 package hw2Q2JavaVariables;
 
 public class AboutUs {
-	// varriable is declared
+	// variable is declared
 	public String MyName;
 	public int myHouseNumber;
 	public char mySex;
