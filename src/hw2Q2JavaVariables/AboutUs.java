@@ -18,7 +18,7 @@ public class AboutUs {
 
 	}
 
-	// method
+	// method implemented
 	public void aboutUs() {
 		System.out.println("My Name is  :" + MyName + "\nMy HouseNumber is :" + myHouseNumber + "\nMy Sex :" + mySex
 				+ "I am a Uscityzen :" + usCitizen + "\nMy Age is : " + myAge + "MY house mortatage is :  "

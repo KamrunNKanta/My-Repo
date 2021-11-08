@@ -3,7 +3,7 @@ package hw2Q2JavaVariables;
 public class TestAboutUS {
 
 	public static void main(String[] args) {
-		//instantiate AboutUs class under main method
+		// instantiate AboutUs class under main method
 		// constructor is initialized and declared
 		AboutUs object = new AboutUs();
 		// variables are initialized and declared for me
@@ -16,7 +16,7 @@ public class TestAboutUS {
 		object.myHouseMortatge = 1800;
 		object.mySex = 'F';
 		object.usCitizen = false;
-		// variable are declared for my friend Alex
+		// variable are initialized for my friend Alex
 		AboutUs alex = new AboutUs();
 		alex.MyName = "Alex";
 		alex.myHouseNumber = 555;
@@ -28,12 +28,10 @@ public class TestAboutUS {
 		alex.usCitizen = true;
 		alex.myHouseMortatge = 4500;
 
-		// call the method by object /method initialized
-
 		object.aboutUs();
-		//my new pr
+		// my new pr
 
-	//	alex.aboutUs();
+		// alex.aboutUs();
 
 	}
 
