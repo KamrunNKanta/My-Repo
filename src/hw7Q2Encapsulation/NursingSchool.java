@@ -1,4 +1,4 @@
-package hw6Q3Abstraction;
+package hw7Q2Encapsulation;
 
 
 
@@ -9,6 +9,7 @@ public abstract class NursingSchool {
 		
 	//created a constructor-showing error
 		//public NursingSchool () {}
+		//default void learning() {}
 		
 	}
 

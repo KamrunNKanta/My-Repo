@@ -1,4 +1,4 @@
-package hw6Q3Abstraction;
+package hw7Q2Encapsulation;
 
 public abstract class EngineeringSchool {
 	// Abstract method
@@ -6,8 +6,9 @@ public abstract class EngineeringSchool {
 
 	// non Abstract method
 	public void computerLab() {
-		System.out.println("this is a non abstract method from engeneering school class");
+		System.out.println("this is a non abstract method from engeneering school class");}
 
-	}
+	
+
 
 }
