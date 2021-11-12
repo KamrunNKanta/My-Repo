@@ -1,7 +1,7 @@
 package hw7Q3Abstraction;
 
 
-
+//ColumbiaUniversity extends MedicalSchool,I did ,showing error so i removed
 public class ColumbiaUniversity {
 	//Abstract method
 	//public abstract void chemistry();
