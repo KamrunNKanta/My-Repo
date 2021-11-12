@@ -1,4 +1,4 @@
-package hw7Q2Encapsulation;
+package hw7Q3Abstraction;
 
 public abstract class EngineeringSchool {
 	// Abstract method

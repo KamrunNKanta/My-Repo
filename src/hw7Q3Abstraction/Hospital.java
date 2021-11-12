@@ -1,6 +1,10 @@
-package hw7Q2Encapsulation;
+package hw7Q3Abstraction;
 
 public interface Hospital {
+	/*3-1) 
+	 * Create one default and one static method morgue and pharmacy inside interface
+	 * "Hospital"
+	 */
 	public void emergencyRoom();
 
 	public void surgeryRoom();

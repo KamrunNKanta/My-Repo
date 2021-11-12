@@ -1,6 +1,13 @@
 package hw7Q2Encapsulation;
 
 public class Employee {
+	/*
+	 * Create a package name "hw7Q2Encapsulation" in the HW project. Inside the
+	 * package, a) Create a class, Employee. declare some private variables---->
+	 * name, age, sex, usCitizen. How can you access those variables by getter and
+	 * setter method? Please execute those variables and print Employee info. Paste
+	 * the GitHub link below.
+	 */
 	private String name;
 	private int age;
 	private boolean usCitizen;
