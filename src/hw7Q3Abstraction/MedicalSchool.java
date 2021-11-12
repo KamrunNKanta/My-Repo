@@ -1,6 +1,6 @@
 package hw7Q3Abstraction;
 
-public abstract class MedicalSchool {
+public abstract class MedicalSchool extends NursingSchool{
 	public MedicalSchool() {}
 	/*
 	 * You have 3 abstract class names --MedicalSchool, EngineeringSchool, and
@@ -21,6 +21,7 @@ public abstract class MedicalSchool {
 	 * possible by an Abstract Class? Answer:only one 
 	 * Use the all of above Abstract
 	 * Classes and use the keywords to answer my questions
+	 *Ans: i used the extends keywords for another classes before answering 
 	 * 
 	 */
 	// Abstract Method
