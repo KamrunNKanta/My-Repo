@@ -1,6 +1,6 @@
-package hw7Q3Abstraction;
+package hw8Q3Abstraction;
 
-public interface College  {
+public interface College {
 	/*3-1)
 	 * Create also one default and one static method dorm and studyRoom inside
 	 * interface "College".
