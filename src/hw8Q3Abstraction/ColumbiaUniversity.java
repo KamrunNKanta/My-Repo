@@ -52,62 +52,63 @@ public class ColumbiaUniversity extends EngineeringSchool implements  University
 
 	@Override
 	public void mechanicalLab() {
-		// TODO Auto-generated method stub
-		
+		System.out.println("Carring an abstract methods from Enginnering school abstract class");
 	}
 
 	@Override
 	public void commonRoom() {
-		// TODO Auto-generated method stub
+		System.out.println("Coming from college interface");
 		
 	}
 
 	@Override
 	public void laboratory() {
-		// TODO Auto-generated method stub
+		System.out.println("Coming from college interface");
+		
 		
 	}
 
 	@Override
 	public void languageClub() {
-		// TODO Auto-generated method stub
+		System.out.println("Coming from college interface");
+		
 		
 	}
 
 	@Override
 	public void emergencyRoom() {
-		// TODO Auto-generated method stub
+		System.out.println("Coming from college interface");
+		
 		
 	}
 
 	@Override
 	public void surgeryRoom() {
-		// TODO Auto-generated method stub
+		System.out.println("Coming from Hospital interface");
+		
 		
 	}
 
 	@Override
 	public void cafeteria() {
-		// TODO Auto-generated method stub
+		System.out.println("Coming from Hospital interface");
 		
 	}
 
 	@Override
 	public void classSize() {
-		// TODO Auto-generated method stub
-		
+		System.out.println("Coming from University interface");
 	}
 
 	@Override
 	public void playGround() {
-		// TODO Auto-generated method stub
+		System.out.println("Coming from University interface");
 		
 	}
 
 	@Override
 	public void teacher() {
-		// TODO Auto-generated method stub
-		
+		System.out.println("Coming from University interface");
 	}
 
 }
