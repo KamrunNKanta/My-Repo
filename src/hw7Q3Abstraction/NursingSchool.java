@@ -11,6 +11,7 @@ public abstract class NursingSchool {
 		//public NursingSchool () {}
 		//default void learning() {}
 		
+		
 	}
 
 }
